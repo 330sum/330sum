@@ -1,16 +1,12 @@
 
 <div align = "left">
- 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2330sum)](https://hits.seeyoufarm.com) 
-![](https://img.shields.io/github/followers/330sum?style=social)
- 
 ![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=330sum&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=330sum)](https://solved.ac/330sum/)
 
- 
- <br>
- 
+  
+<br>
+
+
 ## 💪 Skills
 ### - Platforms & Languages
 <p>
@@ -37,5 +33,11 @@
  
 ## 📫 Contacts
 
+<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2330sum)](https://hits.seeyoufarm.com) 
+![](https://img.shields.io/github/followers/330sum?style=social)
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=330sum)](https://solved.ac/330sum/)
+--!>
 
 </div>
